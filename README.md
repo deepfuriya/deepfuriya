@@ -1,5 +1,5 @@
 <h2 align="left">Hi there, I'm Deep Furiya 👋</h2>
-<p align="left">I'm a Graduate Student in Computer Science at the <strong><a href="www.charlotte.edu">University of North Carolina at Charlotte</a></strong>. While I have experience with web programming, I am currently learning mobile application development.</p>
+<p align="left">I'm a Graduate Student in Computer Science at the <strong><a href="www.charlotte.edu">University of North Carolina at Charlotte</a></strong>. While I have experience with web programming, I am currently a Graduate Teaching Assistant for Mobile Application Aevelopment.</p>
 
 
 - 🌱 I’m currently learning **React**
