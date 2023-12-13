@@ -2,7 +2,7 @@
 <p align="left">I'm a Graduate Student in Computer Science at the <strong><a href="www.charlotte.edu">University of North Carolina at Charlotte</a></strong>. While I have experience with web programming, I am currently learning mobile application development.</p>
 
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **PHP, Java, Bootstrap**
 
