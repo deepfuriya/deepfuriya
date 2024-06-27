@@ -1,7 +1,7 @@
 <h2 align="left">Hi there, I'm Deep Furiya 👋</h2>
-<p align="left">I'm a Graduate Student in Computer Science at the <strong><a href="https://www.charlotte.edu">University of North Carolina at Charlotte</a></strong>. While I have experience with web programming and mobile application development.</p>
+<p align="left">I'm a Computer Science graduate from <strong><a href="https://www.charlotte.edu">University of North Carolina at Charlotte</a></strong>. I have experience in web development, along with web programming and mobile application development.</p>
 
-- 💬 Ask me about **Java, PHP, Bootstrap**
+- 💬 Ask me about **React.js, PHP, HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
